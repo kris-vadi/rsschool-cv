@@ -1,6 +1,7 @@
 # Kristina Morozova
 Student [RSSchool](https://rs.school/)
 
+---
 ### CONTACT ME
 - telegram @kristinavadi
 - email:  <christina.vadi@gmail.com>
@@ -14,7 +15,6 @@ Student [RSSchool](https://rs.school/)
 *Even through I am a junior, I'll give my best and work to my full potential.*
 
 > Start where you are. Use what you have. Do what you can.
->
 > - Arthur Ashe.
 
 ### SKILLS
@@ -33,13 +33,12 @@ function solution(str, ending){
 ```
 
 ### WORK EXPERIENCE
-
+- [Pure css accordion](https://kris-vadi.github.io/cssBayan/cssBayan/index.html)
+- [Web for law company](https://www.alist-perm.ru/)
 
 ### EDUCATION
 **Perm National Research Polytechnic University**, *Engineer*
 Electrical Engineering Faculty "Control in Technical Systems" *2006-2011*
-
-##### FUNDAMENTAL
 
 
 ##### COURSES
@@ -49,5 +48,5 @@ Electrical Engineering Faculty "Control in Technical Systems" *2006-2011*
 
 ### LANGUAGES
 - **Russian:** native
-- **Engkish:** intermediate
+- **English:** intermediate
 - **Spanish:** intermedio
