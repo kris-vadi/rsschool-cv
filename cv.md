@@ -39,10 +39,9 @@ function solution(str, ending){
 
 ### EDUCATION
 **Perm National Research Polytechnic University**, *Engineer*
-Electrical Engineering Faculty "Control in Technical Systems" *2006-2011*
+- Electrical Engineering Faculty "Control in Technical Systems" *2006-2011*
 
-
-##### COURSES
+#### COURSES:
 - Udemy: *Фундаментальный JavaScript. C практикой. (Михаил Непомнящий)*
 - Code-Basics: *HTML, CSS*
   
@@ -50,4 +49,4 @@ Electrical Engineering Faculty "Control in Technical Systems" *2006-2011*
 ### LANGUAGES
 - **Russian:** native
 - **English:** intermediate
-- **Spanish:** intermedio superior
+- **Spanish:** intermedio
