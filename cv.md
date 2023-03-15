@@ -47,9 +47,9 @@ function solution(str, ending){
 - Electrical Engineering Faculty "Control in Technical Systems" *2006-2011*
 
 ##### Courses:
-- [Udemy](https://www.udemy.com/course/fundamental-javascript/): *Фундаментальный JavaScript. C практикой. (Михаил Непомнящий)*
+- [Udemy](https://www.udemy.com/course/fundamental-javascript/): *Fundamental JavaScript. With practice and projects. (Mikhail Nepomniashchii)*
 - [Code-Basics](https://code-basics.com/ru/languages/javascript): *HTML, CSS, JavaScript*
-- [БЕСПЛАТНЫЙ курс по верстке сайтов (Front End).](https://www.youtube.com/playlist?list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr)
+- [Free Web Development Course for Beginners (Front End).](https://www.youtube.com/playlist?list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr)
 - [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/): *Responsive Web Design*
 
 ---
