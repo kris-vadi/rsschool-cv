@@ -1,6 +1,6 @@
 ## KRISTINA MOROZOVA
 Student [RSSchool](https://rs.school/)
-Kazakhstan, *Shymkent*
+- Kazakhstan, *Shymkent*
 
 ---
 ### CONTACT ME
