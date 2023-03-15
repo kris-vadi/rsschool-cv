@@ -1,7 +1,7 @@
 ## KRISTINA MOROZOVA
-
 Student [RSSchool](https://rs.school/)
-![placeholder](https://w7.pngwing.com/pngs/113/936/png-transparent-computer-icons-placeholder-angle-black-share-icon.png "placeholder icon") Kazakhstan, *Shymkent*
+Kazakhstan, *Shymkent*
+
 ---
 ### CONTACT ME
 - Telegram @kristinavadi
